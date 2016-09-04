@@ -1,0 +1,295 @@
+DEVICE: SAMSUNG-SGH-I727 4.4.4
+SCREEN_SIZE: 480x800
+
+:start
+touchDown 0 223 444
+sleep 89
+touchUp 0
+sleep 3038
+touchDown 0 37 86
+sleep 103
+touchUp 0
+sleep 1832
+touchDown 0 218 435
+sleep 121
+touchMove 0 212 419
+sleep 24
+touchMove 0 212 414
+sleep 6
+touchMove 0 211 409
+sleep 15
+touchMove 0 211 410
+sleep 17
+touchMove 0 209 405
+sleep 14
+touchMove 0 208 399
+sleep 15
+touchMove 0 206 394
+sleep 16
+touchMove 0 204 388
+sleep 16
+touchMove 0 203 383
+sleep 13
+touchMove 0 202 380
+sleep 15
+touchMove 0 201 374
+sleep 23
+touchMove 0 200 370
+sleep 12
+touchMove 0 200 365
+sleep 12
+touchMove 0 199 360
+sleep 15
+touchMove 0 198 355
+sleep 14
+touchMove 0 197 348
+sleep 16
+touchMove 0 197 342
+sleep 14
+touchMove 0 197 334
+sleep 16
+touchMove 0 197 327
+sleep 15
+touchMove 0 196 320
+sleep 15
+touchMove 0 196 314
+sleep 15
+touchMove 0 196 308
+sleep 20
+touchMove 0 196 305
+sleep 10
+touchMove 0 196 299
+sleep 15
+touchMove 0 197 297
+sleep 30
+touchMove 0 197 295
+sleep 15
+touchMove 0 198 293
+sleep 16
+touchMove 0 198 291
+sleep 15
+touchMove 0 199 290
+sleep 15
+touchMove 0 200 289
+sleep 31
+touchMove 0 200 288
+sleep 15
+touchMove 0 201 288
+sleep 15
+touchMove 0 202 287
+sleep 15
+touchMove 0 203 286
+sleep 16
+touchMove 0 203 285
+sleep 14
+touchMove 0 205 283
+sleep 16
+touchMove 0 206 282
+sleep 15
+touchMove 0 206 281
+sleep 45
+touchMove 0 207 280
+sleep 158
+touchMove 0 207 279
+sleep 41
+touchMove 0 208 278
+sleep 211
+touchMove 0 208 277
+sleep 17
+touchMove 0 209 276
+sleep 28
+touchMove 0 209 275
+sleep 15
+touchMove 0 209 274
+sleep 90
+touchMove 0 209 273
+sleep 17
+touchMove 0 210 272
+sleep 14
+touchMove 0 210 271
+sleep 15
+touchMove 0 210 270
+sleep 15
+touchMove 0 210 268
+sleep 16
+touchMove 0 210 267
+sleep 15
+touchMove 0 210 265
+sleep 15
+touchMove 0 210 264
+sleep 76
+touchMove 0 211 263
+sleep 16
+touchMove 0 211 262
+sleep 29
+touchMove 0 211 261
+sleep 31
+touchMove 0 212 260
+sleep 15
+touchMove 0 212 259
+sleep 30
+touchMove 0 212 257
+sleep 16
+touchMove 0 212 256
+sleep 45
+touchMove 0 212 254
+sleep 15
+touchMove 0 212 253
+sleep 46
+touchMove 0 212 252
+sleep 15
+touchMove 0 212 250
+sleep 15
+touchMove 0 213 247
+sleep 15
+touchMove 0 213 243
+sleep 16
+touchMove 0 213 241
+sleep 14
+touchMove 0 214 238
+sleep 63
+touchMove 0 214 237
+sleep 236
+touchMove 0 215 236
+sleep 36
+touchMove 0 216 237
+sleep 340
+touchMove 0 215 238
+sleep 116
+touchMove 0 214 239
+sleep 42
+touchUp 0
+sleep 1015
+touchDown 0 221 434
+sleep 55
+touchUp 0
+sleep 5367
+touchDown 0 37 92
+sleep 88
+touchUp 0
+sleep 1336
+touchDown 0 152 495
+sleep 58
+touchMove 0 150 479
+sleep 15
+touchMove 0 150 469
+sleep 15
+touchMove 0 149 457
+sleep 15
+touchMove 0 149 460
+sleep 16
+touchMove 0 148 452
+sleep 15
+touchMove 0 147 448
+sleep 15
+touchMove 0 146 441
+sleep 15
+touchMove 0 146 437
+sleep 15
+touchMove 0 145 432
+sleep 16
+touchMove 0 144 422
+sleep 14
+touchMove 0 142 413
+sleep 15
+touchMove 0 141 404
+sleep 17
+touchMove 0 140 395
+sleep 14
+touchMove 0 140 391
+sleep 16
+touchMove 0 140 382
+sleep 17
+touchMove 0 139 374
+sleep 16
+touchMove 0 139 368
+sleep 11
+touchMove 0 137 363
+sleep 15
+touchMove 0 135 358
+sleep 15
+touchMove 0 133 354
+sleep 16
+touchMove 0 131 350
+sleep 15
+touchMove 0 130 348
+sleep 16
+touchMove 0 128 342
+sleep 15
+touchMove 0 128 340
+sleep 14
+touchMove 0 127 337
+sleep 16
+touchMove 0 126 333
+sleep 15
+touchMove 0 126 329
+sleep 15
+touchMove 0 127 327
+sleep 15
+touchMove 0 127 325
+sleep 61
+touchMove 0 128 323
+sleep 45
+touchMove 0 129 322
+sleep 16
+touchMove 0 129 321
+sleep 20
+touchMove 0 129 317
+sleep 10
+touchMove 0 130 314
+sleep 15
+touchMove 0 131 308
+sleep 16
+touchMove 0 132 302
+sleep 14
+touchMove 0 134 297
+sleep 16
+touchMove 0 135 291
+sleep 15
+touchMove 0 136 289
+sleep 14
+touchMove 0 136 287
+sleep 17
+touchMove 0 137 285
+sleep 13
+touchMove 0 137 284
+sleep 15
+touchMove 0 137 283
+sleep 177
+touchMove 0 138 283
+sleep 10
+touchMove 0 138 284
+sleep 57
+touchMove 0 138 285
+sleep 322
+touchMove 0 139 285
+sleep 163
+touchMove 0 139 284
+sleep 30
+touchMove 0 140 283
+sleep 15
+touchMove 0 139 282
+sleep 95
+touchMove 0 138 281
+sleep 17
+touchMove 0 137 280
+sleep 32
+touchMove 0 137 279
+sleep 24
+touchMove 0 137 278
+sleep 60
+touchMove 0 137 277
+sleep 95
+touchMove 0 137 278
+sleep 86
+touchMove 0 137 277
+sleep 168
+touchMove 0 137 276
+sleep 105
+touchMove 0 137 275
+sleep 454
+touchMove 0 137 276
+sleep 118
+touchUp 0
+
+:end
